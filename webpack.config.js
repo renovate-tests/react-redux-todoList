@@ -1,3 +1,4 @@
+console.log('__dirname = ' + __dirname);
 module.exports = {
     //ビルドの対象となるディレクトリを定義
     context: __dirname + '/src',
